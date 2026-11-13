@@ -7,3 +7,5 @@ Analysis with NumPy: Structuring raw arrays into something usable, computing der
 Visualising results with Matplotlib: Plotting experimental data with clear labelling, legends, and annotations to make patterns interpretable.
 
 Validating against theory: Overlaying theoretical predictions (e.g. maxima/minima positions) on experimental plots to assess how well the data matched expected physical models, and reasoning about the sources of discrepancy.
+
+Also features a self directed implemenetation of Grover's Algorithm in Qiskit on 2-5 qubits. 
